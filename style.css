@@ -15,6 +15,9 @@ body{
     padding-bottom: 5%;
     
 }
+*button{
+    border:none;
+}
 .container{
     height: 670px;
     width: 400px;
